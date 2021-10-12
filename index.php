@@ -59,7 +59,7 @@
 		                  <span class="fa fa-angle-right"></span>
 		                </a>
 		            </div>
-		            <h2>Rented Products</h2>
+		            <h2>Products on Rent</h2>
 					
 					 <div class="flex-container" style = "display: flex; padding:5px;">
 						<div class = "flex-child" style = "flex:3;border:5px solid white;padding:5px;" >
