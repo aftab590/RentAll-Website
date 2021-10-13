@@ -111,7 +111,7 @@ html {
       <div class="container">
         <h2>Adarsh Panigrahi</h2>
         <p class="title">Admin</p>
-        <p>Designed front-end and back-end.</p>
+        <p>Worked on the back-end and front-end Connectivity.</p>
         <p>2019adarsh.panigrahi@ves.ac.in</p>
         <p><a href="https://www.linkedin.com/in/adarsh-panigrahi-3192071a9" target="_blank" class="button">Contact</a></p>
       </div>
