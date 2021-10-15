@@ -61,7 +61,7 @@
 		            </div>
 		            <h2>Products on Rent</h2>
 					
-					 <div class="flex-container" style = "display: flex; padding:5px;">
+					 <!-- <div class="flex-container" style = "display: flex; padding:5px;">
 						<div class = "flex-child" style = "flex:3;border:5px solid white;padding:5px;" >
 						
     						
@@ -132,7 +132,98 @@
 							</div>
 						</div>
 					
-					</div> 
+					</div>  -->
+
+
+
+					<div class='row'>
+					<div class='col-sm-4'>
+	       				<div class='box box-solid'>
+		       				<div class='box-body prod-body'>
+		       				<img src="images/suit.png" width='100%' height='230px' class='thumbnail'>
+		       				<h3>Royal Embroidery</h3>
+							<p>An ethnic royal embroideried suit desi...</p>
+		       				</div>	
+		       				<div class='box-footer'>
+							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="/rentall/product.php?product=royal-embroidery-suit">More Info</a>
+		       				</div>
+	       					</div>
+	       				</div>
+
+
+						<div class='col-sm-4'>
+	       				<div class='box box-solid'>
+		       				<div class='box-body prod-body'>
+		       				<img src="images/gate.png" width='100%' height='230px' class='thumbnail'>
+		       				<h3>GATE CSE/IT 2022</h3>
+							   <p>Best selling Book for Gate CSE/IT 2022...</p>
+		       				</div>	
+		       				<div class='box-footer'>
+							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="/rentall/product.php?product=gate-cse-it-2022" >More Info</a>
+		       				</div>
+	       					</div>
+	       				</div>
+
+						<div class='col-sm-4'>
+	       				<div class='box box-solid'>
+		       				<div class='box-body prod-body'>
+		       				<img src="images/samsung-galaxy-s9-128-gb.jpg" width='100%' height='230px' class='thumbnail'>
+		       				<h3>Samsung Galaxy S9</h3>
+							   <p>Dual Apperture lens.Supports F1.5 and F2.4</p>
+		       				</div>	
+		       				<div class='box-footer'>
+							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="http://localhost/rentall/product.php?product=samsung-galaxy-s9">More Info</a>
+		       				</div>
+	       					</div>
+	       				</div>
+						
+						<div class='col-sm-4'>
+	       				<div class='box box-solid'>
+		       				<div class='box-body prod-body'>
+		       				<img src="images/dell-inspiron-5675-gaming-pc-recon-blue.jpg" width='100%' height='230px' class='thumbnail'>
+		       				<h3>Dell CPU</h3>
+							   <p>It's a Gaming PC+Windows OS (Inbuilt) 16...</p>
+		       				</div>	
+		       				<div class='box-footer'>
+							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="http://localhost/rentall/product.php?product=dell-inspiron-5675" >More Info</a>
+		       				</div>
+	       					</div>
+	       				</div>
+
+						<div class='col-sm-4'>
+	       				<div class='box box-solid'>
+		       				<div class='box-body prod-body'>
+		       				<img src="images/apple-9-7-ipad-32-gb-gold.jpg" width='100%' height='230px' class='thumbnail'>
+		       				<h3>Apple Ipad Gold</h3>
+							   <p>9.7 inch Retina Display, 2048 x 1536 Reso...</p>
+		       				</div>	
+		       				<div class='box-footer'>
+							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="/rentall/product.php?product=apple-9-7-ipad-32-gb-gold">More Info</a>
+		       				</div>
+	       					</div>
+	       				</div>
+
+						<div class='col-sm-4'>
+	       				<div class='box box-solid'>
+		       				<div class='box-body prod-body'>
+		       				<img src="images/dell-inspiron-15-5000-15.jpg" width='100%' height='230px' class='thumbnail'>
+		       				<h3>Dell Inspiron</h3>
+							   <p>Windows OS+ 4.0 GB Inbulit Ram+ 500 GB...</p>
+		       				</div>	
+		       				<div class='box-footer'>
+							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="http://localhost/rentall/product.php?product=dell-inspiron-15-5000">More Info</a>
+		       				</div>
+	       					</div>
+	       				</div>
+
+
+
+
+
+					</div>
+
+
+
 
 					
 
