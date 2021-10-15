@@ -65,7 +65,7 @@ html {
   background-color: #000;
   text-align: center;
   cursor: pointer;
-  width: 35%;
+  width: 33%;
 }
 
 .button:hover {
@@ -107,13 +107,13 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="images/founder2.jpg" alt="Mike" style="width:100%">
+      <img src="images/founder2.jpg" alt="Mike" style="width:100%; height:105%">
       <div class="container">
         <h2>Adarsh Panigrahi</h2>
         <p class="title">Admin</p>
         <p>Worked on the back-end and front-end Connectivity.</p>
         <p>2019adarsh.panigrahi@ves.ac.in</p>
-        <p><a href="https://www.linkedin.com/in/adarsh-panigrahi-3192071a9" target="_blank" class="button">Contact</a></p>
+        <a href="https://www.linkedin.com/in/adarsh-panigrahi-3192071a9" target="_blank" class="button">Contact</a>
       </div>
     </div>
   </div>
