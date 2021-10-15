@@ -135,7 +135,7 @@
 					</div>  -->
 
 
-
+<!-- changed -->
 					<div class='row'>
 					<div class='col-sm-4'>
 	       				<div class='box box-solid'>
@@ -189,7 +189,7 @@
 		       				</div>
 	       					</div>
 	       				</div>
-
+						
 						<div class='col-sm-4'>
 	       				<div class='box box-solid'>
 		       				<div class='box-body prod-body'>
