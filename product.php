@@ -1,3 +1,10 @@
+<style>
+	.colsel{
+		/* color:#ffe6cc; */
+		color:red;
+	}
+
+</style>
 <?php
 function convertCurrency($curr){
 	return ($curr*70);
@@ -63,7 +70,7 @@ function convertCurrency($curr){
 		            	<div class="col-sm-6">
 		            		<img src="<?php echo (!empty($product['photo'])) ? 'images/'.$product['photo'] : 'images/noimage.jpg'; ?>" width="100%" class="zoom" data-magnify-src="images/large-<?php echo $product['photo']; ?>">
 		            		<br><br>
-							<h4 style="color:#ffe6cc;">Select number of days?</h4>
+							<h4 class="colsel">Select number of days?</h4>
 		            		<form class="form-inline" id="productForm">
 		            			<div class="form-group">
 			            			<div class="input-group col-sm-5">
@@ -83,11 +90,11 @@ function convertCurrency($curr){
 		            		</form>
 		            	</div>
 		            	<div class="col-sm-6">
-		            		<h1 class="page-header" style="color:#ffe6cc;"><?php echo $product['prodname']; ?></h1>
-							<h3 style="color:#ffe6cc;"><b> &#8377; <?php echo convertCurrency($product['price']); ?> /day</b></h3>
-		            		<p style="color:#ffe6cc;"><b>Category:</b> <a href="category.php?category=<?php echo $product['cat_slug']; ?>"><?php echo $product['catname']; ?></a></p>
-		            		<p style="color:#ffe6cc;"><b>Description:</b></p>
-		            		<h5 style="color:#ffe6cc;"><?php echo $product['description']; ?></h5>
+		            		<h1 class="page-header colsel"><?php echo $product['prodname']; ?></h1>
+							<h3 class="colsel"><b> &#8377; <?php echo convertCurrency($product['price']); ?> /day</b></h3>
+		            		<p class="colsel"><b>Category:</b> <a href="category.php?category=<?php echo $product['cat_slug']; ?>"><?php echo $product['catname']; ?></a></p>
+		            		<p class="colsel"><b>Description:</b></p>
+		            		<h5 class="colsel"><?php echo $product['description']; ?></h5>
 							
 		            	</div>
 		            </div>
