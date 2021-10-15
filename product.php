@@ -1,7 +1,7 @@
 <style>
 	.colsel{
 		/* color:#ffe6cc; */
-		color:red;
+		color:#ffffff;
 	}
 
 </style>
