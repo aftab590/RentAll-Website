@@ -70,7 +70,7 @@
 								<div class="card-body">
 									<h3 class="card-title" style="padding-left:10px;"><b>Royal Embroidery</b></h3>
 									<p class="card-text" style="padding-left:10px;">An ethnic royal embroideried suit designed and tailored by the top craftsman of India. A suit that will...</p>
-									<a href="/ecommerce/product.php?product=royal-embroidery-suit" class="btn btn-primary" style="padding-left:10px;">More Info</a>
+									<a href="/rentall/product.php?product=royal-embroidery-suit" class="btn btn-primary" style="padding-left:10px;">More Info</a>
 								</div>
 							</div>
 						</div>
@@ -81,7 +81,7 @@
 								<div class="card-body">
 									<h3 class="card-title" style="padding-left:10px;"><b>GATE CSE/IT 2022</b></h3>
 									<p class="card-text" style="padding-left:10px;">Best selling Book for Gate CSE/IT 2022. Previous years questions with well defined and structured...</p>
-									<a href="/ecommerce/product.php?product=gate-cse-it-2022" class="btn btn-primary" style="padding-left:10px;">More Info</a>
+									<a href="/rentall/product.php?product=gate-cse-it-2022" class="btn btn-primary" style="padding-left:10px;">More Info</a>
 								</div>
 							</div>
 						</div>
@@ -92,7 +92,7 @@
 								<div class="card-body">
 									<h3 class="card-title" style="padding-left:10px;"><b>Samsung Galaxy S9</b></h3>
 									<p class="card-text" style="padding-left:10px;">Dual Apperture lens.Supports F1.5 and F2.4 mode 128 GB Storage 6.0 GB Internal RAM...</p>
-									<a href="http://localhost/ecommerce/product.php?product=samsung-galaxy-s9" class="btn btn-primary" style="padding-left:10px;">More Info</a>
+									<a href="http://localhost/rentall/product.php?product=samsung-galaxy-s9" class="btn btn-primary" style="padding-left:10px;">More Info</a>
 								</div>
 							</div>
 						</div>
@@ -105,7 +105,7 @@
 								<div class="card-body">
 									<h3 class="card-title" style="padding-left:10px;"><b>Dell CPU</b></h3>
 									<p class="card-text" style="padding-left:10px;">It's a Gaming PC. Windows OS (Inbuilt) 16.0 GB. Inbulit Ram Graphics Card Supported....</p>
-									<a href="http://localhost/ecommerce/product.php?product=dell-inspiron-5675" class="btn btn-primary" style="padding-left:10px;">More Info</a>
+									<a href="http://localhost/rentall/product.php?product=dell-inspiron-5675" class="btn btn-primary" style="padding-left:10px;">More Info</a>
 								</div>
 							</div>
 						</div>
@@ -116,7 +116,7 @@
 								<div class="card-body">
 									<h3 class="card-title" style="padding-left:10px;"><b>Apple Ipad Gold</b></h3>
 									<p class="card-text" style="padding-left:10px;">9.7 inch Retina Display, 2048 x 1536 Resolution Apple iOS 9, A9X chip with 64bit architecture...</p>
-									<a href="/ecommerce/product.php?product=apple-9-7-ipad-32-gb-gold" class="btn btn-primary" style="padding-left:10px;">More Info</a>
+									<a href="/rentall/product.php?product=apple-9-7-ipad-32-gb-gold" class="btn btn-primary" style="padding-left:10px;">More Info</a>
 								</div>
 							</div>
 						</div>
@@ -127,7 +127,7 @@
 								<div class="card-body">
 									<h3 class="card-title" style="padding-left:10px;"><b>Dell Inspiron</b></h3>
 									<p class="card-text" style="padding-left:10px;">Windows OS.<br> 4.0 GB Inbulit Ram.<br>500 GB HDD.<br>Graphics card support...</p>
-									<a href="http://localhost/ecommerce/product.php?product=dell-inspiron-15-5000" class="btn btn-primary" style="padding-left:10px;">More Info</a>
+									<a href="http://localhost/rentall/product.php?product=dell-inspiron-15-5000" class="btn btn-primary" style="padding-left:10px;">More Info</a>
 								</div>
 							</div>
 						</div>
