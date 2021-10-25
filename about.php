@@ -94,7 +94,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="images/founder1.jpg" alt="Jane" style="width:100%">
+      <img src="images/founder1.1.jpg" alt="Jane" style="height:350px ; width:100%">
       <div class="container">
         <h2>Aaftab Shaikh</h2>
         <p class="title">Admin</p>
@@ -107,7 +107,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="images/founder2.jpg" alt="Mike" style="width:100%; height:105%">
+    <img src="images/founder2.1.jpeg" alt="Jane" style="height:350px ; width:100%">
       <div class="container">
         <h2>Adarsh Panigrahi</h2>
         <p class="title">Admin</p>
@@ -120,7 +120,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="images/founder3.jpg" alt="John" style="width:100%">
+    <img src="images/founder3.1.jpeg" alt="Jane" style="height:350px ; width:100%">
       <div class="container">
         <h2>Prathmesh Kesarkar</h2>
         <p class="title">Admin</p>
