@@ -38,8 +38,8 @@
 				        $mail->isSMTP();                                     
 				        $mail->Host = 'smtp.gmail.com';                      
 				        $mail->SMTPAuth = true;                               
-				        $mail->Username = 'thedevilofhell0@gmail.com';     
-				        $mail->Password = 'Ksaa*083937';                    
+				        $mail->Username = 'rentalladmn2021@gmail.com';     
+				        $mail->Password = 'Rentall*12345';                    
 				        $mail->SMTPOptions = array(
 				            'ssl' => array(
 				            'verify_peer' => false,
@@ -50,11 +50,11 @@
 				        $mail->SMTPSecure = 'ssl';                           
 				        $mail->Port = 465;                                   
 
-				        $mail->setFrom('thedevilofhell0@gmail.com');
+				        $mail->setFrom('@gmail.com');
 				        
 				        //Recipients
 				        $mail->addAddress($email);              
-				        $mail->addReplyTo('thedevilofhell0@gmail.com');
+				        $mail->addReplyTo('@gmail.com');
 				       
 				        //Content
 				        $mail->isHTML(true);                                  
