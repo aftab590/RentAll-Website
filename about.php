@@ -96,7 +96,7 @@ html {
     <div class="card">
       <img src="images/founder1.1.jpg" alt="Jane" style="height:350px ; width:100%">
       <div class="container">
-        <h2>Aaftab Shaikh</h2>
+        <h2>Aaftab</h2>
         <p class="title">Admin</p>
         <p>Designed front-end and back-end.</p>
         <p>2019aaftab.shaikh@ves.ac.in</p>
