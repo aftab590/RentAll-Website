@@ -50,11 +50,11 @@
 				        $mail->SMTPSecure = 'ssl';                           
 				        $mail->Port = 465;                                   
 
-				        $mail->setFrom('@gmail.com');
+				        $mail->setFrom('rentalladmn2021@gmail.com');
 				        
 				        //Recipients
 				        $mail->addAddress($email);              
-				        $mail->addReplyTo('@gmail.com');
+				        $mail->addReplyTo('rentalladmn2021@gmail.com');
 				       
 				        //Content
 				        $mail->isHTML(true);                                  
