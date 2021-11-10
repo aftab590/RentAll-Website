@@ -168,7 +168,7 @@
 		       				<div class='box-body prod-body'>
 		       				<img src="images/samsung-galaxy-s9-128-gb.jpg" width='100%' height='230px' class='thumbnail'>
 		       				<h3>Samsung Galaxy S9</h3>
-							   <p>Dual Apperture lens.Supports F1.5 and F2.4</p>
+							   <p>Dual Apperture lens.Supports ...</p>
 		       				</div>	
 		       				<div class='box-footer'>
 							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="http://localhost/rentall/product.php?product=samsung-galaxy-s9">More Info</a>
@@ -181,7 +181,7 @@
 		       				<div class='box-body prod-body'>
 		       				<img src="images/dell-inspiron-5675-gaming-pc-recon-blue.jpg" width='100%' height='230px' class='thumbnail'>
 		       				<h3>Dell CPU</h3>
-							   <p>It's a Gaming PC+Windows OS (Inbuilt) 16...</p>
+							   <p>It's a Gaming PC+Windows OS...</p>
 		       				</div>	
 		       				<div class='box-footer'>
 							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="http://localhost/rentall/product.php?product=dell-inspiron-5675" >More Info</a>
@@ -194,7 +194,7 @@
 		       				<div class='box-body prod-body'>
 		       				<img src="images/apple-9-7-ipad-32-gb-gold.jpg" width='100%' height='230px' class='thumbnail'>
 		       				<h3>Apple Ipad Gold</h3>
-							   <p>9.7 inch Retina Display, 2048 x 1536 Reso...</p>
+							   <p>9.7 inch Retina Display, 2048 ...</p>
 		       				</div>	
 		       				<div class='box-footer'>
 							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="/rentall/product.php?product=apple-9-7-ipad-32-gb-gold">More Info</a>
@@ -207,7 +207,7 @@
 		       				<div class='box-body prod-body'>
 		       				<img src="images/dell-inspiron-15-5000-15.jpg" width='100%' height='230px' class='thumbnail'>
 		       				<h3>Dell Inspiron</h3>
-							   <p>Windows OS+ 4.0 GB Inbulit Ram+ 500 GB...</p>
+							   <p>Windows OS+ 4.0 GB Inbulit...</p>
 		       				</div>	
 		       				<div class='box-footer'>
 							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="http://localhost/rentall/product.php?product=dell-inspiron-15-5000">More Info</a>
