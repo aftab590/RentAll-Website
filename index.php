@@ -10,7 +10,7 @@
 	?>
 	<?php include 'includes/navbar.php'; ?>
 	 
-	  <div class="content-wrapper" style="background-color: #ffe6cc;>
+	  <div class="content-wrapper" style="background-color: #ffe6cc">
 	    <div class="container">
 
 	      <!-- Main content -->
